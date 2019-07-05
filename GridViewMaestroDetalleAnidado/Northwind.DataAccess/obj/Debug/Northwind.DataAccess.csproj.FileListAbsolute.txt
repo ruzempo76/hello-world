@@ -1,0 +1,5 @@
+C:\Ruben\Uni\GridViewMaestroDetalleAnidado\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Ruben\Uni\GridViewMaestroDetalleAnidado\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Ruben\Uni\GridViewMaestroDetalleAnidado\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csprojResolveAssemblyReference.cache
+C:\Ruben\Uni\GridViewMaestroDetalleAnidado\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Ruben\Uni\GridViewMaestroDetalleAnidado\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
